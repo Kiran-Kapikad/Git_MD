@@ -1,1 +1,2 @@
-console.log('Main branch JS loaded');
+console.log("Staging branch JS loaded");
+
